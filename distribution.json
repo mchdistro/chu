@@ -12,7 +12,7 @@
       "name": "chu",
       "description": "Minecraft 1.21.1 (Fabric v0.19.3)",
       "icon": "https://github.com/mchdistro/chu/raw/main/server-icon.png",
-      "version": "1.0.0",
+      "version": "0.0.1",
       "address": "chuchuchudamainchuch.p-e.kr:33333",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -23,7 +23,7 @@
       "mainServer": true,
       "autoconnect": true,
       "javaOptions": {
-        "supported": "=21",
+        "supported": "21",
         "suggestedMajor": 21,
         "platformOptions": [
           {
