@@ -12,7 +12,7 @@
       "name": "chu",
       "description": "Minecraft 1.21.1 (Fabric v0.19.3)",
       "icon": "https://github.com/mchdistro/chu/raw/main/server-icon.png",
-      "version": "0.0.3",
+      "version": "1.0.0",
       "address": "chuchuchudamainchuch.p-e.kr:33333",
       "minecraftVersion": "1.21.1",
       "discord": {
@@ -562,6 +562,16 @@
             "size": 2791343,
             "url": "https://github.com/mchdistro/chu/raw/main/servers/chu-1.21.1/fabricmods/required/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
             "MD5": "4399f0c3edfe2af7f61db3725fe5c751"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.1-6.0.7@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4330400,
+            "url": "https://github.com/mchdistro/chu/raw/main/servers/chu-1.21.1/fabricmods/required/journeymap-fabric-1.21.1-6.0.7.jar",
+            "MD5": "497f169e368fd29b7854b786fbf3eda8"
           }
         },
         {

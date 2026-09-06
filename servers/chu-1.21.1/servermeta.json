@@ -1,7 +1,7 @@
 {
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/chu/schemas/ServerMetaSchema.schema.json",
   "meta": {
-    "version": "0.0.3",
+    "version": "1.0.0",
     "name": "chu",
     "description": "Minecraft 1.21.1 (Fabric v0.19.3)",
     "icon": "https://github.com/mchdistro/chu/raw/main/server-icon.png",
